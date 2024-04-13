@@ -45,7 +45,7 @@ const Testimonial = () => {
               </h2>
               <p className="text-gray-500 text-[20px]">
                 Starting @ 20$
-                <strong>Shop Now</strong>
+                <strong> Shop Now</strong>
               </p>
             </div>
           </div>
